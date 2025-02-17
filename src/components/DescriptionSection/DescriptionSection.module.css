@@ -1,0 +1,35 @@
+.section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #62D0DF;
+    padding-left: 170px;
+}
+
+.content {
+    color: rgba(255, 255, 255, 1);
+}
+
+.title {
+    font-size: 26px;
+    font-weight: 200;
+    font-style: italic;
+    line-height: 25px;
+    margin-left: -40%;
+}
+
+.text {
+  width: 350px;
+  margin-left: -40%;
+  margin-top: 40px;
+  margin-bottom: 20px; 
+  font-size: 16px;
+  font-style: italic;
+  text-align: justify;
+}
+.image {
+  max-width: 60%; 
+  height: auto;
+  margin-left: -20%;
+}

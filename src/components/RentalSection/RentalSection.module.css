@@ -1,0 +1,35 @@
+
+.rentalSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  padding-left: 170px;
+    
+  }
+  
+  .rentalImg {
+    max-width: 60%; 
+    height: auto;
+    margin-left:-30%;
+  }
+  
+  .description {
+    width: 350px;
+    margin-left: -10%;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-style: italic;
+    text-align: justify;
+    color: #22356F;
+  }
+  .h2{
+    font-size: 26px;
+    font-weight: 200;
+    font-style: italic;
+    line-height: 25px;
+    margin-left: -10%;
+    color: #22356F;
+  }
